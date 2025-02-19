@@ -2,7 +2,7 @@
 
 **Final Project for the Building AI Course**  
 
-## Summary  
+## Summary
 
 This AI model analyzes an image of a mushroom and determines whether it is **poisonous or edible**. Additionally, it provides useful information about the mushroom, such as its scientific name, potential uses, and habitat.  
 

@@ -35,7 +35,7 @@ This AI aims to provide an additional layer of safety by assisting foragers in i
 - **Transfer Learning:** Fine-tuning pre-trained models (e.g., ResNet, MobileNet) to improve accuracy with a smaller dataset.  
 - **Natural Language Processing (NLP):** Extracting structured information from Wikipedia descriptions.  
 
-## ⚠ Challenges  
+## Challenges  
 
 - **Accuracy & Safety Risks:** Even the best AI may misidentify a mushroom. Users must always exercise caution and verify with experts.  
 - **Limited Data:** Some rare mushroom species have very few publicly available images.  
